@@ -1,0 +1,11 @@
+# Ignore build files
+*.exe
+*.out
+*.o
+
+# Ignore editor/IDE configs
+.vscode/
+
+# Ignore local test files
+input.txt
+output.txt
